@@ -175,4 +175,4 @@ Evenements logges :
 
 ## LIEN
 
-https://projet-php-bdd-m-a.free.nf/
+[projet-blog.free.nf](https://projet-blog.free.nf/)
